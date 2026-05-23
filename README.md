@@ -10,6 +10,6 @@
 | Project | Tech | Duration | Report |
 |---|---|---|---|
 | 식품안전정보원 실무 개선을 위한 해외 제조업소 분류 알고리즘 구축 | NLP, Geocoding, Text Mining | '22.09.26. ~ '22.10.11. | [PDF](./reports/4.(붙임3)2022_데이터분석_분석결과보고서_식품안전정보원_고수연(Y220224)_1.pdf) |
-| 국민의 약제 복용 현황분석 및 고령자 대상의 척척약사 앱 서비스 기획 | Data Analysis, Service Planning | '22.10.12. ~ '22.11.18. | [PDF](./pdf/medication-analysis-app-service.pdf) |
-| 감귤 생산량 추정을 위한 나무 상태 기반 감귤 착과량 예측 모델 구축| Python, AutoML, RandomForest | '22.11.23. ~ '22.12.14. | [PDF](./pdf/citrus-yield-prediction.pdf) |
-| 부정 유통 차단을 위한 개체정보를 기반 생산품종 분류 모델 구축 | Logistic Regression, RandomForest | '22.12.15. ~ '23.01.18. | [PDF](./pdf/cattle-genetic-classification.pdf) |
+| 국민의 약제 복용 현황분석 및 고령자 대상의 척척약사 앱 서비스 기획 | Data Analysis, Service Planning | '22.10.12. ~ '22.11.18. | [PDF](./reports/5.(붙임3)2022_데이터분석_분석결과보고서_식품안전정보원_고수연(Y220224)_2.pdf) |
+| 감귤 생산량 추정을 위한 나무 상태 기반 감귤 착과량 예측 모델 구축| Python, AutoML, RandomForest | '22.11.23. ~ '22.12.14. | [PDF](./reports/6.(붙임3)2022_데이터분석_분석결과보고서_식품안전정보원_고수연(Y220224)_3.pdf) |
+| 부정 유통 차단을 위한 개체정보를 기반 생산품종 분류 모델 구축 | Logistic Regression, RandomForest | '22.12.15. ~ '23.01.18. | [PDF](./reports/7.(붙임3)2022_데이터분석_분석결과보고서_식품안전정보원_고수연(Y220224)_4.pdf) |
